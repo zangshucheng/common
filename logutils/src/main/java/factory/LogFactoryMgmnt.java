@@ -12,7 +12,7 @@ public class LogFactoryMgmnt {
 	
 	private static final String RUNTIME = "runTime";
 
-	public Logger getRunTimeLogger() {
+	public static Logger getRunTimeLogger() {
 		return LoggerFactory.getLogger(RUNTIME);
 	}
 }
