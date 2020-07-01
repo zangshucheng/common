@@ -9,7 +9,7 @@
 	<artifactId>logutils</artifactId>
 
 	<properties>
-		<log4j2-version>2.11.1</log4j2-version>
+		<log4j2-version>2.13.3</log4j2-version>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
